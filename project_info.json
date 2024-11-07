@@ -3,7 +3,10 @@
         {
             "id":0,
             "name":"teste-projeto",
-            "members": null
+            "grupo": "Back-end",
+            "imgSrc":null,
+            "horario":"3h",
+            "githubLink":"algumLink"
         }
     ]
 }
